@@ -2,7 +2,7 @@
 
 // الخطوة الأهم: تفعيل ScrollTrigger داخل GSAP
 gsap.registerPlugin(ScrollTrigger);
-gsap.registerPlugin(GSDevTools);
+// gsap.registerPlugin(GSDevTools);
 
 // تحديد جميع أزرار القوائم المنسدلة
 const dropdownBtns = document.querySelectorAll('.dropdown-btn');
